@@ -7,4 +7,4 @@ https://theaxy.github.io/archee/
 Одностраничный сайт, активный хедер с анимацией, меню бургер, слайдер
 
 # Стек
-`html5` `css3` `js` `scss`
+`html5` `css3` `js` `scss` `БЭМ`
